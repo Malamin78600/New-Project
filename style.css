@@ -2,3 +2,30 @@
     margin: 0px;
     padding: 0px;
 }
+nav{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content:space-around;
+    align-items:center;
+}
+.header-banner{
+    height: 60px;
+    width: 40px;
+    
+}
+.banner-img{
+    width: 120px;
+    align-content: center;
+    color: blue;
+    
+}
+
+.menu{
+    display: flex;
+   
+}
+.header-menu{
+    list-style: none;
+    margin-right: 30px; 
+}
